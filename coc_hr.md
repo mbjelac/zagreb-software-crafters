@@ -48,7 +48,7 @@ Neprihvatljivo ponašanje uključuje, ali nije ograničeno na:
 - Uznemiravanje i drugo isključujuće ponašanje. Namjerno zastrašivanje i prijetnje.
 - Agresivan ili seksualiziran jezik i sadržaj. Neželjeni seksualni komentari ili pristupi.
 - Vrijeđanje i omalovažavanje drugih sudionika.
-- Otkrivanje ili dijeljenje identiteta (etničkog, rodnog ili nekog drugog) sudionika bez njihovog pristanka.
+- Otkrivanje ili objavljivanje etničkog, rodnog ili nekog drugog identiteta sudionika bez njihovog pristanka.
 - “Pa, zapravo…” ponašanje: objašnjavanje ljudima što su “zapravo htjeli reći”.
 - Bilo koje drugo ponašanje koje se može razumno smatrati neprimjerenim u profesionalnom okruženju.
 
