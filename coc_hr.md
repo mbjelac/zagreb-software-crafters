@@ -20,7 +20,7 @@ Stoga pozivamo sve sudionike okupljanja Zagreb Software Crafters, kao i širu za
 - Budite srdačni, prijateljski nastrojeni i strpljivi. Pretpostavite dobru namjeru. Postavljajte pitanja prije nego što donesete zaključke.
 - Poštujte druge. Nećemo se svi uvijek slagati, ali neslaganje nije izgovor za loše ponašanje ili nepristojnost. Svi možemo povremeno osjetiti frustraciju, ali ne smijemo dopustiti da ona preraste u osobni napad.
 - Budite svjesni učinka svojih riječi na druge. Mi smo zajednica stručnjaka i ponašamo se profesionalno. Budite ljubazni prema drugima. Ne vrijeđajte i ne omalovažavajte druge sudionike. Uznemiravanje i isključujuće ponašanje nije prihvatljivo.
-- Kad god je moguće, koristite uključiv jezik: primjerice, kada pričate o osobi kojoj spol nije poznat koristite množinu ("On koristi Javu." -> "Oni koriste Javu.") i budite svjesni da neki ljudi preferiraju zamjenice koje možda ne biste očekivali.
+- Kad god je moguće, koristite uključiv jezik: primjerice, kada pričate o osobi čiji spol nije poznat koristite množinu ("On koristi Javu." -> "Oni koriste Javu.") i budite svjesni da neki ljudi preferiraju zamjenice koje možda ne biste očekivali.
 - Ako se zabunite u izražavanju, nemojte se osjećati loše — jednostavno se ispričajte i nastavite dalje s više pažnje.
 - Budite oprezni s vicevima. Ne toleriramo kršenja kodeksa ponašanja, čak ni ako je nešto izrečeno “samo kao šala”.
 - Priznajte kada nešto ne znate. Ohrabrite druge da također priznaju kada nešto ne znaju — i nikada se ne rugajte tome. Svi smo ovdje kako bismo učili.
