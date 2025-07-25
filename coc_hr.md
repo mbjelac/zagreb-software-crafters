@@ -56,7 +56,7 @@ Neprihvatljivo ponašanje uključuje, ali nije ograničeno na:
 
 Ako vam treba pomoć, imate dodatna pitanja ili bilo kakve nedoumice, obratite se organizatorima okupljanja Zagreb Software Crafters zajednice.
 
-- Pronađite i razgovarajte s organizatorima
+- Pronađite organizatore i razgovarajte s njima
 - Kontakt: [marko.bjelac@gmail.com](mailto:marko.bjelac@gmail.com)
 
 Ovaj kodeks ponašanja odnosi se na samu Zagreb Software Crafters zajednicu i na sva okupljanja te zajednice, kao i na sve digitalne prostore povezane sa zajednicom, poput [meetup.com grupe](https://www.meetup.com/zagreb-software-crafters/).
